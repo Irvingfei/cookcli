@@ -1,0 +1,97 @@
+[zh-cn]
+name = "CookCLI"
+auth = "TerraMaster 社区开发者"
+descript = "把纯文本 .cook 食谱变成在线食谱库：浏览、搜索、按份数缩放、生成购物清单，也可以直接在网页里编辑食谱。食谱文件以普通文本保存在 NAS 共享文件夹中。"
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "食谱保存在 NAS 共享文件夹 cookcli-data 的 recipes 子目录中，可直接通过文件管理器或 SMB 增删修改。默认不启用登录，同一网络内能访问本机的人都可以查看和修改食谱；如需限制，请在 NAS 防火墙中限制 18087 端口。网页地址为 http://NAS地址/cookcli/。"
+
+[zh-hk]
+name = "CookCLI"
+auth = "TerraMaster 社群開發者"
+descript = "把純文字 .cook 食譜變成線上食譜庫：瀏覽、搜尋、按份數縮放、產生購物清單，也可以直接在網頁裡編輯食譜。食譜檔案以一般文字保存在 NAS 共享資料夾中。"
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "食譜保存在 NAS 共享資料夾 cookcli-data 的 recipes 子目錄中，可直接透過檔案管理員或 SMB 增刪修改。預設不啟用登入，同一網路內能存取本機的人都可以檢視和修改食譜；如需限制，請在 NAS 防火牆中限制 18087 埠。網頁位址為 http://NAS位址/cookcli/。"
+
+[en-us]
+name = "CookCLI"
+auth = "TerraMaster Community Developer"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[fr-fr]
+name = "CookCLI"
+auth = "Développeur communautaire TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[de-de]
+name = "CookCLI"
+auth = "TerraMaster Community-Entwickler"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[it-it]
+name = "CookCLI"
+auth = "Sviluppatore della community TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[es-es]
+name = "CookCLI"
+auth = "Desarrollador de la comunidad TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[hu-hu]
+name = "CookCLI"
+auth = "TerraMaster közösségi fejlesztő"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[ja-jp]
+name = "CookCLI"
+auth = "TerraMaster コミュニティ開発者"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[ko-kr]
+name = "CookCLI"
+auth = "TerraMaster 커뮤니티 개발자"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[pl-pl]
+name = "CookCLI"
+auth = "Społecznościowy deweloper TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[ru-ru]
+name = "CookCLI"
+auth = "Разработчик сообщества TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[tr-tr]
+name = "CookCLI"
+auth = "TerraMaster topluluk geliştiricisi"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
+
+[pt-pt]
+name = "CookCLI"
+auth = "Programador da comunidade TerraMaster"
+descript = "Turns plain-text .cook recipes into a browsable cookbook: browse, search, scale by servings and build shopping lists, and edit recipes right in the web UI. Recipes stay ordinary text files in a NAS shared folder."
+release_note = "1.0.0: First release, packaging CookCLI 0.41.1 as a TOS deb with its own web server, shared recipe folder and reverse-proxy entry."
+important = "Recipes live in the recipes subfolder of the cookcli-data NAS shared folder and can be added or edited through File Manager or SMB. Sign-in is off by default, so anyone who can reach the NAS on the network can view and change recipes; restrict port 18087 in the NAS firewall if that is not wanted. The web UI is served at http://<nas>/cookcli/."
