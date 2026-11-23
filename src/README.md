@@ -7,4 +7,4 @@ assets are built from these files.
 - `cookcli.lang` — 14 language sections
 - `cookcli.svg` — application icon
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps

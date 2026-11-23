@@ -24,7 +24,7 @@ The `src/` directory contains the files the package is built from:
 The package tree itself (service unit, nginx location, maintainer scripts) is
 produced by `build_deb.py` in the build toolchain.
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps
 
 ## Install
 
